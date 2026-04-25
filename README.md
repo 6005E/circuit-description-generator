@@ -1,7 +1,7 @@
 Download figure-descriptions-skill-package.zip file from Dropbox at https://tinyurl.com/3b9zyx3b
 
 Figure Description Skills Package
-A skill package for Claude that handles figure descriptions in study guides — including circuit diagrams, hydraulic/pneumatic schematics, and practice problem images — with a focus on accessibility for blind and visually impaired students.
+A skill package for Claude (likely also gpt 5.5) that handles figure descriptions in study guides — including circuit diagrams, hydraulic/pneumatic schematics, and practice problem images — with a focus on accessibility for blind and visually impaired students.
 
 Overview
 This package bundles four integrated skills intended to be used together. They cover the full workflow: writing descriptions from images, inserting them into Word documents, handling domain-specific schematic types, and verifying circuit details before describing them.
