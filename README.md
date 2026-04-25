@@ -1,4 +1,4 @@
-Download figure-descriptions-skill-package.zip file from Dropbox at https://tinyurl.com/3b9zyx3b
+Download figure-descriptions-skill-package.zip from Dropbox at https://tinyurl.com/3b9zyx3b
 
 Figure Description Skills Package
 A skill package for Claude (likely also gpt 5.5) that handles figure descriptions in study guides — including circuit diagrams, hydraulic/pneumatic schematics, and practice problem images — with a focus on accessibility for blind and visually impaired students.
@@ -65,4 +65,4 @@ File Structure
 figure-description-skills-package/
 └── SKILL.md
 
-Download figure-descriptions-skill-package.zip file from Dropbox at https://tinyurl.com/3b9zyx3b
+Download figure-descriptions-skill-package.zip from Dropbox at https://tinyurl.com/3b9zyx3b
