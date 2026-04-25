@@ -1,8 +1,10 @@
 Figure Description Skills Package
 A skill package for Claude that handles figure descriptions in study guides — including circuit diagrams, hydraulic/pneumatic schematics, and practice problem images — with a focus on accessibility for blind and visually impaired students.
+
 Overview
 This package bundles four integrated skills intended to be used together. They cover the full workflow: writing descriptions from images, inserting them into Word documents, handling domain-specific schematic types, and verifying circuit details before describing them.
 Skills Included
+
 Skill 1 — Figure Descriptions for Study Guides
 Core content and formatting rules for writing figure descriptions read aloud by screen readers. Covers:
 
