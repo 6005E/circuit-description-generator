@@ -48,7 +48,7 @@ Push-pull center tap identification from turns counts
 Source quality hierarchy for schematics and datasheets
 
 Usage
-This package is a single SKILL.md file containing all four skills. Load it into a Claude session before beginning any figure description task. Read all sections relevant to your task before proceeding.
+This package is a single SKILL.md file containing all four skills. Load it into a Claude (likely also compatible with gpt 5.5) session before beginning any figure description task. Read all sections relevant to your task before proceeding.
 Trigger conditions:
 
 Writing figure descriptions or alt text for study guides
