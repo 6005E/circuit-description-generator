@@ -45,6 +45,10 @@ Descriptions are read aloud by screen readers for blind or visually impaired stu
 
 Before writing a description, examine each component and connection in the image explicitly and in order. Do not infer state or topology from visual cues like color, position, or familiar patterns — verify each one directly. For circuit diagrams this means tracing every current path. For any image with multiple elements, account for each one before writing.
 
+Do not apply system-level descriptors (e.g. "three-phase," "wye-connected," "delta-connected," "series circuit," "parallel circuit") unless the image explicitly shows the interconnection that justifies the label. The fact that components have values or labels consistent with a known configuration is not sufficient — the connection itself must be visible.
+
+After drafting a description, verify that every visible element in the image — including labels, annotations, symbols, and component details such as dot positions — is accounted for by name. A generic phrase like "phase dots shown" does not suffice if the dot positions are visible and functionally meaningful; state which terminals are dotted.
+
 ## Structure and Grouping
 
 - When elements belong together (e.g. an exponent, a symbol, and a name all describing the same prefix), make those relationships explicit. Do not list elements separately.
