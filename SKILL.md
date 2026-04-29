@@ -43,7 +43,13 @@ Descriptions are read aloud by screen readers for blind or visually impaired stu
 
 ## Examining Images
 
-Before writing a description, examine each component and connection in the image explicitly and in order. Do not infer state or topology from visual cues like color, position, or familiar patterns — verify each one directly. For circuit diagrams this means tracing every current path. For any image with multiple elements, account for each one before writing.
+Before writing a description, examine each component and connection in the image explicitly and in order. 
+
+When pages contain multiple small exercise graphs where precise grid values must be read, use 200 DPI or higher when rasterizing. At lower resolutions, fine grid detail on small embedded graphs is unreliable and can produce misreads of asymptote positions, branch extrema, and axis values.
+
+When precise grid values are required — asymptote positions, branch extrema, intercepts — crop and re-examine the individual graph before writing the description. Do not describe small graphs embedded in a full page without zooming in first.
+
+Do not infer state or topology from visual cues like color, position, or familiar patterns — verify each one directly. For circuit diagrams this means tracing every current path. For any image with multiple elements, account for each one before writing.
 
 Do not apply system-level descriptors (e.g. "three-phase," "wye-connected," "delta-connected," "series circuit," "parallel circuit") unless the image explicitly shows the interconnection that justifies the label. The fact that components have values or labels consistent with a known configuration is not sufficient — the connection itself must be visible.
 
