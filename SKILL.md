@@ -58,7 +58,7 @@ After drafting a description, verify that every visible element in the image —
 
 ## Positional Language
 
-- Do not describe left/right/middle positions of parallel components — their order is interchangeable and meaningless to a blind student.
+- Do not describe left/right/middle positions of parallel components — their order is interchangeable.
 - Do not use directional language (e.g. "far right", "top left") unless functionally necessary.
 - Positional language is appropriate when it identifies a functionally distinct element (e.g. which branch contains an ammeter, a short, or an open circuit).
 
