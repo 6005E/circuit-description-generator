@@ -55,6 +55,8 @@ Do not apply system-level descriptors (e.g. "three-phase," "wye-connected," "del
 
 After drafting a description, verify that every visible element in the image — including labels, annotations, symbols, and component details such as dot positions — is accounted for by name. A generic phrase like "phase dots shown" does not suffice if the dot positions are visible and functionally meaningful; state which terminals are dotted.
 
+Describe only what is fully visible in the graph. Do not draw conclusions about any feature — amplitude, period, midline trend, or behavior — from a partial cycle, a clipped curve, or a region where the graph exits the frame. If a feature cannot be confirmed from complete, visible data, do not state it
+
 ## Structure and Grouping
 
 - When elements belong together (e.g. an exponent, a symbol, and a name all describing the same prefix), make those relationships explicit. Do not list elements separately.
